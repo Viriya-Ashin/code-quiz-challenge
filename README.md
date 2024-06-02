@@ -1,11 +1,11 @@
-# Code Quiz HTML Structure
+# code-quiz-challenge HTML Structure
 
 ## Meta Tags
 - Sets character encoding to UTF-8
 - Configures viewport for responsive design
 
 ## Page Title
-- **Title:** Code Quiz
+- **Title:** Code Quiz Challenge
 
 ## External CSS
 - **Stylesheet:** `./Assets/css/style.css`
@@ -37,7 +37,8 @@
 ## External JavaScript
 - **Script:** `./Assets/js/script.js`
 
-# Code Quiz CSS Selectors
+
+# code-quiz-challenge CSS Structure
 
 ## Body
 - **Styles:** Arial font, no margin/padding, flexbox, light gray background
@@ -49,7 +50,7 @@
 - **Styles:** 100% width, max-width 600px, margin, white background, padding, shadow, border-radius
 
 
-# Code Quiz JavaScript Structure
+# code-quiz-challenge JavaScript Structure
 
 ## DOM Elements
 - Variables for accessing HTML elements such as start button, quiz screens, timer, etc.
